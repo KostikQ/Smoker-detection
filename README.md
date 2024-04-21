@@ -14,7 +14,7 @@
 
 1. Клонирование репозитория:
 
-git clone https://github.com/valimag/emotion.git
+git clone https://github.com/KostikQ/Smoker-detection.git
 cd smoking
 
 
